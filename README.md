@@ -1,1 +1,1 @@
-# MinIO_Java_sdk
+# MinIO_Java_Client_sdk
